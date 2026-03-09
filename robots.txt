@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stream.goal5.top/sitemap.xml
